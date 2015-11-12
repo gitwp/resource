@@ -9,3 +9,6 @@ JAVA
 4、OPEN开发经验库：http://www.open-open.com/lib/  
 5、开源中国：http://www.oschina.net/  
 6、IT eBooks：http://it-ebooks.info/
+7、Google Java Style：https://google.github.io/styleguide/javaguide.html
+8、https://www.reddit.com/r/java
+9、http://www.importnew.com/
