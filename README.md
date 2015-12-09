@@ -13,4 +13,5 @@ JAVA
 8、https://www.reddit.com/r/java  
 9、http://www.importnew.com/  
 10、http://tutorials.jenkov.com/  
-11、美团技术博客：http://tech.meituan.com/archives
+11、美团技术博客：http://tech.meituan.com/archives  
+12、journaldev：http://www.journaldev.com/
