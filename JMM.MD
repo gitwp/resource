@@ -6,3 +6,4 @@
 4、Java的内存结构(Memory Structure)和垃圾收集（Garbage Collection）图解：http://blog.csdn.net/autofei/article/details/7456213  
 5、java内存模型及GC原理 和 图解JVM在内存中申请对象及垃圾回收流程：http://blog.csdn.net/zhaoxu0312/article/details/7225277  
 6、深入理解java内存模型系列文章：http://ifeve.com/java-memory-model-0/  
+7、happen-before规则及其对DCL的分析：http://blog.csdn.net/ns_code/article/details/17348313
