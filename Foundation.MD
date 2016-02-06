@@ -10,4 +10,5 @@
 2、https://blogs.oracle.com/toddfast/entry/creating_nested_complex_java_annotations  
 
 ##Reflection
-1、java中什么是bridge method（桥接方法）:http://blog.csdn.net/mhmyqn/article/details/47342577
+1、java中什么是bridge method（桥接方法）:http://blog.csdn.net/mhmyqn/article/details/47342577  
+2、提炼Java Reflection:http://lsy.iteye.com/blog/220264
