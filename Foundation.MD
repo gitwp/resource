@@ -11,4 +11,7 @@
 
 ##Reflection
 1、java中什么是bridge method（桥接方法）:http://blog.csdn.net/mhmyqn/article/details/47342577  
-2、提炼Java Reflection:http://lsy.iteye.com/blog/220264
+2、提炼Java Reflection:http://lsy.iteye.com/blog/220264  
+
+##Exception
+1、Java异常处理和设计：http://www.cnblogs.com/dolphin0520/p/3769804.html  
