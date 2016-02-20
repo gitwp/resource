@@ -9,7 +9,7 @@
 4、《Java并发编程的艺术》：http://book.douban.com/subject/26591326/  
 5、《Spring 3.x企业应用开发实战》：http://book.douban.com/subject/10432844/  
 6、《深入分析Java Web技术内幕（修订版）》：http://book.douban.com/subject/25953851/  
-7、《Maven实战》：http://book.douban.com/subject/5345682/
+7、《Maven实战》：http://book.douban.com/subject/5345682/  
 8、《Java编程思想 （第4版）》：http://book.douban.com/subject/2130190/  
 
 ##JavaScript
