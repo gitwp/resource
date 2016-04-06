@@ -18,4 +18,8 @@
 
 ##IO
 1、Java I/O: http://blog.csdn.net/zjf280441589/article/details/50526786  
+
+##Proxy
+1、java代理机制：http://www.cnblogs.com/machine/archive/2013/02/21/2921345.html  
+2、彻底理解JAVA动态代理：http://www.cnblogs.com/flyoung2008/archive/2013/08/11/3251148.html  
  
