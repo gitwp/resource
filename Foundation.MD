@@ -18,6 +18,7 @@
 
 ##IO
 1、Java I/O: http://blog.csdn.net/zjf280441589/article/details/50526786  
+2、流是什么：http://bbs.51cto.com/thread-791972-1-1.html
 
 ##Proxy
 1、java代理机制：http://www.cnblogs.com/machine/archive/2013/02/21/2921345.html  
